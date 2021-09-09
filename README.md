@@ -1,2 +1,1 @@
-# C-exercise
-C++ exercise
+#C++, python,java exercise
